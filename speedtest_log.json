@@ -1205,5 +1205,2744 @@
     "upload_mbps": 15.52,
     "ping_ms": 21.789,
     "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:13:43.405751",
+    "download_mbps": 505.45,
+    "upload_mbps": 34.82,
+    "ping_ms": 18.26
+  },
+  {
+    "timestamp": "2025-07-23T23:15:44.513459",
+    "download_mbps": 425.05,
+    "upload_mbps": 32.62,
+    "ping_ms": 16.119
+  },
+  {
+    "timestamp": "2025-07-23T23:19:24.882221",
+    "download_mbps": 520.47,
+    "upload_mbps": 35.39,
+    "ping_ms": 18.261
+  },
+  {
+    "timestamp": "2025-07-23T23:19:44.330356",
+    "download_mbps": 419.69,
+    "upload_mbps": 36.26,
+    "ping_ms": 18.447
+  },
+  {
+    "timestamp": "2025-07-23T23:21:24.262685",
+    "download_mbps": 501.72,
+    "upload_mbps": 35.03,
+    "ping_ms": 15.546
+  },
+  {
+    "timestamp": "2025-07-23T23:21:44.374157",
+    "download_mbps": 473.05,
+    "upload_mbps": 35.96,
+    "ping_ms": 15.698
+  },
+  {
+    "timestamp": "2025-07-23T23:23:24.762987",
+    "download_mbps": 465.52,
+    "upload_mbps": 32.45,
+    "ping_ms": 17.09
+  },
+  {
+    "timestamp": "2025-07-23T23:23:43.541158",
+    "download_mbps": 469.83,
+    "upload_mbps": 33.83,
+    "ping_ms": 22.472
+  },
+  {
+    "timestamp": "2025-07-23T23:25:26.730565",
+    "download_mbps": 417.39,
+    "upload_mbps": 34.31,
+    "ping_ms": 18.139
+  },
+  {
+    "timestamp": "2025-07-23T23:25:45.288302",
+    "download_mbps": 438.62,
+    "upload_mbps": 29.74,
+    "ping_ms": 16.622
+  },
+  {
+    "timestamp": "2025-07-23T23:27:26.396407",
+    "download_mbps": 393.43,
+    "upload_mbps": 29.88,
+    "ping_ms": 19.108
+  },
+  {
+    "timestamp": "2025-07-23T23:27:47.509144",
+    "download_mbps": 323.29,
+    "upload_mbps": 28.82,
+    "ping_ms": 18.806
+  },
+  {
+    "timestamp": "2025-07-23T23:29:28.684999",
+    "download_mbps": 306.37,
+    "upload_mbps": 28.56,
+    "ping_ms": 44.264
+  },
+  {
+    "timestamp": "2025-07-23T23:29:50.323680",
+    "download_mbps": 326.79,
+    "upload_mbps": 30.39,
+    "ping_ms": 26.211
+  },
+  {
+    "timestamp": "2025-07-23T23:31:28.292742",
+    "download_mbps": 298.52,
+    "upload_mbps": 30.18,
+    "ping_ms": 16.663,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:31:49.538960",
+    "download_mbps": 295.78,
+    "upload_mbps": 26.34,
+    "ping_ms": 19.528,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:33:28.702813",
+    "download_mbps": 318.78,
+    "upload_mbps": 22.87,
+    "ping_ms": 37.851
+  },
+  {
+    "timestamp": "2025-07-23T23:33:51.057989",
+    "download_mbps": 285.97,
+    "upload_mbps": 19.85,
+    "ping_ms": 17.951,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:35:48.055649",
+    "download_mbps": 216.76,
+    "upload_mbps": 26.34,
+    "ping_ms": 37.728,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:36:07.239096",
+    "download_mbps": 409.59,
+    "upload_mbps": 23.03,
+    "ping_ms": 42.775
+  },
+  {
+    "timestamp": "2025-07-23T23:37:48.551038",
+    "download_mbps": 323.08,
+    "upload_mbps": 15.32,
+    "ping_ms": 37.787
+  },
+  {
+    "timestamp": "2025-07-23T23:38:08.044896",
+    "download_mbps": 147.85,
+    "upload_mbps": 17.56,
+    "ping_ms": 54.817,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:39:49.676200",
+    "download_mbps": 124.26,
+    "upload_mbps": 11.39,
+    "ping_ms": 21.69,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:40:09.260501",
+    "download_mbps": 219.57,
+    "upload_mbps": 7.66,
+    "ping_ms": 45.941,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:41:47.561014",
+    "download_mbps": 254.81,
+    "upload_mbps": 18.47,
+    "ping_ms": 31.671,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:42:07.766542",
+    "download_mbps": 263.01,
+    "upload_mbps": 13.65,
+    "ping_ms": 49.49,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:43:48.618349",
+    "download_mbps": 148.86,
+    "upload_mbps": 10.15,
+    "ping_ms": 39.58,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:44:10.706122",
+    "download_mbps": 97.11,
+    "upload_mbps": 6.14,
+    "ping_ms": 32.988,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:45:47.760675",
+    "download_mbps": 314.73,
+    "upload_mbps": 12.15,
+    "ping_ms": 39.146
+  },
+  {
+    "timestamp": "2025-07-23T23:46:10.010118",
+    "download_mbps": 308.7,
+    "upload_mbps": 9.66,
+    "ping_ms": 26.513
+  },
+  {
+    "timestamp": "2025-07-23T23:47:48.899255",
+    "download_mbps": 195.48,
+    "upload_mbps": 6.03,
+    "ping_ms": 20.502,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:48:10.719041",
+    "download_mbps": 256.44,
+    "upload_mbps": 9.03,
+    "ping_ms": 41.546,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:49:49.054756",
+    "download_mbps": 169.31,
+    "upload_mbps": 11.67,
+    "ping_ms": 42.291,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:50:14.039092",
+    "download_mbps": 176.66,
+    "upload_mbps": 5.75,
+    "ping_ms": 44.217,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:51:49.402721",
+    "download_mbps": 265.53,
+    "upload_mbps": 6.61,
+    "ping_ms": 42.371,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:52:14.701630",
+    "download_mbps": 36.78,
+    "upload_mbps": 6.71,
+    "ping_ms": 34.315,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:53:55.715222",
+    "download_mbps": 178.87,
+    "upload_mbps": 5.09,
+    "ping_ms": 54.842,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:54:13.136969",
+    "download_mbps": 227.4,
+    "upload_mbps": 10.01,
+    "ping_ms": 52.137,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:55:49.504686",
+    "download_mbps": 78.3,
+    "upload_mbps": 13.47,
+    "ping_ms": 32.831,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:56:17.112600",
+    "download_mbps": 320.5,
+    "upload_mbps": 10.4,
+    "ping_ms": 35.662
+  },
+  {
+    "timestamp": "2025-07-23T23:57:55.448949",
+    "download_mbps": 57.29,
+    "upload_mbps": 9.82,
+    "ping_ms": 30.102,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:58:15.828168",
+    "download_mbps": 237.21,
+    "upload_mbps": 10.78,
+    "ping_ms": 54.848,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-23T23:59:51.331239",
+    "download_mbps": 42.14,
+    "upload_mbps": 7.07,
+    "ping_ms": 56.517,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:00:12.492005",
+    "download_mbps": 138.44,
+    "upload_mbps": 9.72,
+    "ping_ms": 42.227,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:01:52.991371",
+    "download_mbps": 314.25,
+    "upload_mbps": 8.37,
+    "ping_ms": 42.895
+  },
+  {
+    "timestamp": "2025-07-24T00:02:15.266144",
+    "download_mbps": 240.16,
+    "upload_mbps": 11.06,
+    "ping_ms": 53.298,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:03:51.332571",
+    "download_mbps": 163.55,
+    "upload_mbps": 13.27,
+    "ping_ms": 54.444,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:04:11.671978",
+    "download_mbps": 250.97,
+    "upload_mbps": 8.96,
+    "ping_ms": 51.062,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:05:47.531851",
+    "download_mbps": 294.51,
+    "upload_mbps": 25.16,
+    "ping_ms": 26.345,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:06:07.480734",
+    "download_mbps": 358.43,
+    "upload_mbps": 23.89,
+    "ping_ms": 21.556
+  },
+  {
+    "timestamp": "2025-07-24T00:07:46.540217",
+    "download_mbps": 383.81,
+    "upload_mbps": 26.54,
+    "ping_ms": 46.332
+  },
+  {
+    "timestamp": "2025-07-24T00:08:07.701041",
+    "download_mbps": 326.66,
+    "upload_mbps": 22.34,
+    "ping_ms": 15.42
+  },
+  {
+    "timestamp": "2025-07-24T00:09:47.563434",
+    "download_mbps": 326.9,
+    "upload_mbps": 30.29,
+    "ping_ms": 38.773
+  },
+  {
+    "timestamp": "2025-07-24T00:10:07.107557",
+    "download_mbps": 367.54,
+    "upload_mbps": 26.72,
+    "ping_ms": 25.411
+  },
+  {
+    "timestamp": "2025-07-24T00:11:47.412663",
+    "download_mbps": 357.61,
+    "upload_mbps": 29.1,
+    "ping_ms": 50.933
+  },
+  {
+    "timestamp": "2025-07-24T00:12:07.149814",
+    "download_mbps": 363.1,
+    "upload_mbps": 28.31,
+    "ping_ms": 15.179
+  },
+  {
+    "timestamp": "2025-07-24T00:13:48.650057",
+    "download_mbps": 319.85,
+    "upload_mbps": 28.59,
+    "ping_ms": 43.191
+  },
+  {
+    "timestamp": "2025-07-24T00:14:06.462440",
+    "download_mbps": 369.47,
+    "upload_mbps": 28.28,
+    "ping_ms": 48.479
+  },
+  {
+    "timestamp": "2025-07-24T00:15:45.558923",
+    "download_mbps": 476.65,
+    "upload_mbps": 28.2,
+    "ping_ms": 42.35
+  },
+  {
+    "timestamp": "2025-07-24T00:16:05.032092",
+    "download_mbps": 393.6,
+    "upload_mbps": 28.44,
+    "ping_ms": 18.177
+  },
+  {
+    "timestamp": "2025-07-24T00:17:47.701277",
+    "download_mbps": 277.67,
+    "upload_mbps": 25.85,
+    "ping_ms": 38.374,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:18:06.552595",
+    "download_mbps": 360.92,
+    "upload_mbps": 31.54,
+    "ping_ms": 39.478
+  },
+  {
+    "timestamp": "2025-07-24T00:19:45.802822",
+    "download_mbps": 413.22,
+    "upload_mbps": 29.03,
+    "ping_ms": 45.34
+  },
+  {
+    "timestamp": "2025-07-24T00:20:06.610281",
+    "download_mbps": 323.59,
+    "upload_mbps": 31.61,
+    "ping_ms": 18.481
+  },
+  {
+    "timestamp": "2025-07-24T00:21:47.666308",
+    "download_mbps": 257.59,
+    "upload_mbps": 31.52,
+    "ping_ms": 42.361,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:22:07.920732",
+    "download_mbps": 305.72,
+    "upload_mbps": 30.57,
+    "ping_ms": 24.576
+  },
+  {
+    "timestamp": "2025-07-24T00:23:45.153209",
+    "download_mbps": 417.57,
+    "upload_mbps": 30.14,
+    "ping_ms": 31.815
+  },
+  {
+    "timestamp": "2025-07-24T00:24:05.103654",
+    "download_mbps": 408.13,
+    "upload_mbps": 22.04,
+    "ping_ms": 16.633
+  },
+  {
+    "timestamp": "2025-07-24T00:25:46.972288",
+    "download_mbps": 433.23,
+    "upload_mbps": 20.91,
+    "ping_ms": 36.18
+  },
+  {
+    "timestamp": "2025-07-24T00:26:06.008110",
+    "download_mbps": 374.34,
+    "upload_mbps": 24.81,
+    "ping_ms": 30.895
+  },
+  {
+    "timestamp": "2025-07-24T00:27:48.667688",
+    "download_mbps": 317.85,
+    "upload_mbps": 26.78,
+    "ping_ms": 39.545
+  },
+  {
+    "timestamp": "2025-07-24T00:28:05.966877",
+    "download_mbps": 404.09,
+    "upload_mbps": 20.03,
+    "ping_ms": 47.513
+  },
+  {
+    "timestamp": "2025-07-24T00:29:47.281165",
+    "download_mbps": 320.66,
+    "upload_mbps": 25.61,
+    "ping_ms": 25.115
+  },
+  {
+    "timestamp": "2025-07-24T00:30:07.034821",
+    "download_mbps": 388.04,
+    "upload_mbps": 26.09,
+    "ping_ms": 49.035
+  },
+  {
+    "timestamp": "2025-07-24T00:35:45.956250",
+    "download_mbps": 414.22,
+    "upload_mbps": 30.04,
+    "ping_ms": 40.094
+  },
+  {
+    "timestamp": "2025-07-24T00:36:04.137372",
+    "download_mbps": 441.19,
+    "upload_mbps": 26.94,
+    "ping_ms": 17.224
+  },
+  {
+    "timestamp": "2025-07-24T00:37:45.289113",
+    "download_mbps": 448.55,
+    "upload_mbps": 28.68,
+    "ping_ms": 44.292
+  },
+  {
+    "timestamp": "2025-07-24T00:38:06.953553",
+    "download_mbps": 308.72,
+    "upload_mbps": 27.74,
+    "ping_ms": 21.241
+  },
+  {
+    "timestamp": "2025-07-24T00:39:48.772240",
+    "download_mbps": 293.23,
+    "upload_mbps": 30.11,
+    "ping_ms": 50.205,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:40:08.760899",
+    "download_mbps": 275.26,
+    "upload_mbps": 16.92,
+    "ping_ms": 54.728,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:41:45.709784",
+    "download_mbps": 423.83,
+    "upload_mbps": 26.18,
+    "ping_ms": 32.622
+  },
+  {
+    "timestamp": "2025-07-24T00:42:04.184048",
+    "download_mbps": 469.1,
+    "upload_mbps": 32.55,
+    "ping_ms": 25.876
+  },
+  {
+    "timestamp": "2025-07-24T00:43:47.356933",
+    "download_mbps": 376.19,
+    "upload_mbps": 23.61,
+    "ping_ms": 42.089
+  },
+  {
+    "timestamp": "2025-07-24T00:44:07.086386",
+    "download_mbps": 350.3,
+    "upload_mbps": 29.85,
+    "ping_ms": 17.044
+  },
+  {
+    "timestamp": "2025-07-24T00:45:48.552888",
+    "download_mbps": 362.84,
+    "upload_mbps": 28.92,
+    "ping_ms": 45.544
+  },
+  {
+    "timestamp": "2025-07-24T00:46:05.645183",
+    "download_mbps": 470.49,
+    "upload_mbps": 29.14,
+    "ping_ms": 37.338
+  },
+  {
+    "timestamp": "2025-07-24T00:47:47.278962",
+    "download_mbps": 364.57,
+    "upload_mbps": 30.57,
+    "ping_ms": 42.316
+  },
+  {
+    "timestamp": "2025-07-24T00:48:07.705717",
+    "download_mbps": 339.32,
+    "upload_mbps": 27.06,
+    "ping_ms": 23.404
+  },
+  {
+    "timestamp": "2025-07-24T00:49:48.478638",
+    "download_mbps": 289.27,
+    "upload_mbps": 26.16,
+    "ping_ms": 40.517,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T00:50:06.671808",
+    "download_mbps": 450.29,
+    "upload_mbps": 27.21,
+    "ping_ms": 20.174
+  },
+  {
+    "timestamp": "2025-07-24T00:51:47.640124",
+    "download_mbps": 369.14,
+    "upload_mbps": 20.62,
+    "ping_ms": 39.668
+  },
+  {
+    "timestamp": "2025-07-24T00:52:06.866802",
+    "download_mbps": 365.34,
+    "upload_mbps": 28.63,
+    "ping_ms": 31.739
+  },
+  {
+    "timestamp": "2025-07-24T00:53:49.430553",
+    "download_mbps": 346.88,
+    "upload_mbps": 28.73,
+    "ping_ms": 47.857
+  },
+  {
+    "timestamp": "2025-07-24T00:54:09.493832",
+    "download_mbps": 338.7,
+    "upload_mbps": 29.55,
+    "ping_ms": 22.663
+  },
+  {
+    "timestamp": "2025-07-24T00:55:50.799221",
+    "download_mbps": 303.11,
+    "upload_mbps": 24.22,
+    "ping_ms": 49.574
+  },
+  {
+    "timestamp": "2025-07-24T00:56:07.046332",
+    "download_mbps": 388.43,
+    "upload_mbps": 30.9,
+    "ping_ms": 40.286
+  },
+  {
+    "timestamp": "2025-07-24T00:57:45.983995",
+    "download_mbps": 464.04,
+    "upload_mbps": 24.52,
+    "ping_ms": 43.777
+  },
+  {
+    "timestamp": "2025-07-24T00:58:08.684418",
+    "download_mbps": 338.06,
+    "upload_mbps": 31.73,
+    "ping_ms": 46.166
+  },
+  {
+    "timestamp": "2025-07-24T00:59:48.361822",
+    "download_mbps": 331.87,
+    "upload_mbps": 24.15,
+    "ping_ms": 46.066
+  },
+  {
+    "timestamp": "2025-07-24T01:00:09.505252",
+    "download_mbps": 285.35,
+    "upload_mbps": 30.5,
+    "ping_ms": 31.986,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T01:05:48.029408",
+    "download_mbps": 442.55,
+    "upload_mbps": 26.13,
+    "ping_ms": 44.015
+  },
+  {
+    "timestamp": "2025-07-24T01:06:08.981372",
+    "download_mbps": 347.95,
+    "upload_mbps": 27.18,
+    "ping_ms": 34.932
+  },
+  {
+    "timestamp": "2025-07-24T01:07:48.502486",
+    "download_mbps": 306.33,
+    "upload_mbps": 25.1,
+    "ping_ms": 34.509
+  },
+  {
+    "timestamp": "2025-07-24T01:08:07.774533",
+    "download_mbps": 377.2,
+    "upload_mbps": 30.41,
+    "ping_ms": 25.421
+  },
+  {
+    "timestamp": "2025-07-24T01:09:48.525646",
+    "download_mbps": 401.49,
+    "upload_mbps": 29.39,
+    "ping_ms": 44.283
+  },
+  {
+    "timestamp": "2025-07-24T01:10:06.911908",
+    "download_mbps": 412.39,
+    "upload_mbps": 24.3,
+    "ping_ms": 24.952
+  },
+  {
+    "timestamp": "2025-07-24T01:11:48.790106",
+    "download_mbps": 224.54,
+    "upload_mbps": 25.68,
+    "ping_ms": 49.328,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T01:12:06.750498",
+    "download_mbps": 430.08,
+    "upload_mbps": 31.23,
+    "ping_ms": 35.443
+  },
+  {
+    "timestamp": "2025-07-24T01:13:47.878176",
+    "download_mbps": 341.04,
+    "upload_mbps": 25.24,
+    "ping_ms": 31.892
+  },
+  {
+    "timestamp": "2025-07-24T01:14:08.313839",
+    "download_mbps": 327.42,
+    "upload_mbps": 28.22,
+    "ping_ms": 18.762
+  },
+  {
+    "timestamp": "2025-07-24T01:15:46.224645",
+    "download_mbps": 419.43,
+    "upload_mbps": 29.22,
+    "ping_ms": 46.855
+  },
+  {
+    "timestamp": "2025-07-24T01:16:07.856952",
+    "download_mbps": 299.66,
+    "upload_mbps": 28.77,
+    "ping_ms": 29.792,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T01:17:48.571557",
+    "download_mbps": 319.48,
+    "upload_mbps": 26.35,
+    "ping_ms": 51.212
+  },
+  {
+    "timestamp": "2025-07-24T01:18:09.763087",
+    "download_mbps": 322.31,
+    "upload_mbps": 26.61,
+    "ping_ms": 53.877
+  },
+  {
+    "timestamp": "2025-07-24T01:19:45.322303",
+    "download_mbps": 431.24,
+    "upload_mbps": 33.16,
+    "ping_ms": 24.224
+  },
+  {
+    "timestamp": "2025-07-24T01:20:04.194464",
+    "download_mbps": 441.0,
+    "upload_mbps": 31.39,
+    "ping_ms": 21.814
+  },
+  {
+    "timestamp": "2025-07-24T01:21:45.867369",
+    "download_mbps": 415.84,
+    "upload_mbps": 28.42,
+    "ping_ms": 33.845
+  },
+  {
+    "timestamp": "2025-07-24T01:22:05.097697",
+    "download_mbps": 464.05,
+    "upload_mbps": 32.4,
+    "ping_ms": 27.001
+  },
+  {
+    "timestamp": "2025-07-24T01:23:43.226624",
+    "download_mbps": 542.02,
+    "upload_mbps": 33.51,
+    "ping_ms": 19.059
+  },
+  {
+    "timestamp": "2025-07-24T01:24:00.627510",
+    "download_mbps": 560.9,
+    "upload_mbps": 33.28,
+    "ping_ms": 18.982
+  },
+  {
+    "timestamp": "2025-07-24T01:25:44.110643",
+    "download_mbps": 492.52,
+    "upload_mbps": 33.77,
+    "ping_ms": 25.822
+  },
+  {
+    "timestamp": "2025-07-24T01:26:03.981572",
+    "download_mbps": 388.71,
+    "upload_mbps": 33.06,
+    "ping_ms": 18.956
+  },
+  {
+    "timestamp": "2025-07-24T01:27:44.329308",
+    "download_mbps": 483.5,
+    "upload_mbps": 31.67,
+    "ping_ms": 23.608
+  },
+  {
+    "timestamp": "2025-07-24T01:28:04.458160",
+    "download_mbps": 375.38,
+    "upload_mbps": 26.17,
+    "ping_ms": 19.167
+  },
+  {
+    "timestamp": "2025-07-24T01:29:46.087368",
+    "download_mbps": 442.1,
+    "upload_mbps": 31.21,
+    "ping_ms": 39.546
+  },
+  {
+    "timestamp": "2025-07-24T01:30:04.188658",
+    "download_mbps": 470.09,
+    "upload_mbps": 30.97,
+    "ping_ms": 23.537
+  },
+  {
+    "timestamp": "2025-07-24T01:31:45.463991",
+    "download_mbps": 428.99,
+    "upload_mbps": 32.7,
+    "ping_ms": 31.82
+  },
+  {
+    "timestamp": "2025-07-24T01:32:07.997911",
+    "download_mbps": 176.09,
+    "upload_mbps": 30.33,
+    "ping_ms": 22.858,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T01:33:45.913759",
+    "download_mbps": 458.2,
+    "upload_mbps": 27.9,
+    "ping_ms": 29.294
+  },
+  {
+    "timestamp": "2025-07-24T01:34:04.256071",
+    "download_mbps": 479.83,
+    "upload_mbps": 27.53,
+    "ping_ms": 30.297
+  },
+  {
+    "timestamp": "2025-07-24T01:35:45.097502",
+    "download_mbps": 468.95,
+    "upload_mbps": 34.1,
+    "ping_ms": 25.566
+  },
+  {
+    "timestamp": "2025-07-24T01:36:06.567657",
+    "download_mbps": 323.22,
+    "upload_mbps": 31.3,
+    "ping_ms": 20.973
+  },
+  {
+    "timestamp": "2025-07-24T01:37:47.834826",
+    "download_mbps": 384.63,
+    "upload_mbps": 33.65,
+    "ping_ms": 37.524
+  },
+  {
+    "timestamp": "2025-07-24T01:38:04.892923",
+    "download_mbps": 482.46,
+    "upload_mbps": 31.03,
+    "ping_ms": 27.39
+  },
+  {
+    "timestamp": "2025-07-24T01:39:44.428408",
+    "download_mbps": 481.44,
+    "upload_mbps": 33.83,
+    "ping_ms": 31.909
+  },
+  {
+    "timestamp": "2025-07-24T01:40:04.880040",
+    "download_mbps": 376.47,
+    "upload_mbps": 31.68,
+    "ping_ms": 19.256
+  },
+  {
+    "timestamp": "2025-07-24T01:41:48.059213",
+    "download_mbps": 323.43,
+    "upload_mbps": 22.84,
+    "ping_ms": 31.724
+  },
+  {
+    "timestamp": "2025-07-24T01:42:05.963350",
+    "download_mbps": 462.76,
+    "upload_mbps": 28.46,
+    "ping_ms": 21.315
+  },
+  {
+    "timestamp": "2025-07-24T01:43:45.481590",
+    "download_mbps": 500.76,
+    "upload_mbps": 31.79,
+    "ping_ms": 26.575
+  },
+  {
+    "timestamp": "2025-07-24T01:44:04.273139",
+    "download_mbps": 441.13,
+    "upload_mbps": 27.82,
+    "ping_ms": 19.33
+  },
+  {
+    "timestamp": "2025-07-24T01:45:44.377031",
+    "download_mbps": 461.59,
+    "upload_mbps": 33.75,
+    "ping_ms": 20.662
+  },
+  {
+    "timestamp": "2025-07-24T01:46:03.227919",
+    "download_mbps": 449.4,
+    "upload_mbps": 32.04,
+    "ping_ms": 20.893
+  },
+  {
+    "timestamp": "2025-07-24T01:47:45.498703",
+    "download_mbps": 450.87,
+    "upload_mbps": 32.83,
+    "ping_ms": 46.526
+  },
+  {
+    "timestamp": "2025-07-24T01:48:05.902932",
+    "download_mbps": 416.45,
+    "upload_mbps": 32.26,
+    "ping_ms": 20.6
+  },
+  {
+    "timestamp": "2025-07-24T01:49:46.476410",
+    "download_mbps": 374.05,
+    "upload_mbps": 31.77,
+    "ping_ms": 17.291
+  },
+  {
+    "timestamp": "2025-07-24T01:50:05.151464",
+    "download_mbps": 408.9,
+    "upload_mbps": 32.41,
+    "ping_ms": 15.431
+  },
+  {
+    "timestamp": "2025-07-24T01:51:45.946210",
+    "download_mbps": 399.86,
+    "upload_mbps": 32.55,
+    "ping_ms": 21.986
+  },
+  {
+    "timestamp": "2025-07-24T01:52:06.577543",
+    "download_mbps": 389.64,
+    "upload_mbps": 24.12,
+    "ping_ms": 16.577
+  },
+  {
+    "timestamp": "2025-07-24T01:53:48.123082",
+    "download_mbps": 324.71,
+    "upload_mbps": 31.03,
+    "ping_ms": 40.339
+  },
+  {
+    "timestamp": "2025-07-24T01:54:05.970705",
+    "download_mbps": 430.67,
+    "upload_mbps": 24.75,
+    "ping_ms": 26.465
+  },
+  {
+    "timestamp": "2025-07-24T01:55:45.481588",
+    "download_mbps": 441.86,
+    "upload_mbps": 26.84,
+    "ping_ms": 38.394
+  },
+  {
+    "timestamp": "2025-07-24T01:56:06.204486",
+    "download_mbps": 353.1,
+    "upload_mbps": 32.04,
+    "ping_ms": 22.474
+  },
+  {
+    "timestamp": "2025-07-24T01:57:46.323106",
+    "download_mbps": 407.25,
+    "upload_mbps": 32.6,
+    "ping_ms": 32.726
+  },
+  {
+    "timestamp": "2025-07-24T01:58:04.521346",
+    "download_mbps": 448.48,
+    "upload_mbps": 32.55,
+    "ping_ms": 20.246
+  },
+  {
+    "timestamp": "2025-07-24T01:59:46.042094",
+    "download_mbps": 400.28,
+    "upload_mbps": 30.78,
+    "ping_ms": 21.155
+  },
+  {
+    "timestamp": "2025-07-24T02:00:08.089235",
+    "download_mbps": 282.57,
+    "upload_mbps": 27.69,
+    "ping_ms": 20.916,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T02:01:45.998311",
+    "download_mbps": 412.67,
+    "upload_mbps": 31.57,
+    "ping_ms": 35.084
+  },
+  {
+    "timestamp": "2025-07-24T02:02:06.684681",
+    "download_mbps": 375.16,
+    "upload_mbps": 27.18,
+    "ping_ms": 20.826
+  },
+  {
+    "timestamp": "2025-07-24T02:03:46.066980",
+    "download_mbps": 476.1,
+    "upload_mbps": 26.7,
+    "ping_ms": 39.9
+  },
+  {
+    "timestamp": "2025-07-24T02:04:05.966840",
+    "download_mbps": 363.03,
+    "upload_mbps": 25.78,
+    "ping_ms": 17.573
+  },
+  {
+    "timestamp": "2025-07-24T02:05:45.797112",
+    "download_mbps": 433.68,
+    "upload_mbps": 31.28,
+    "ping_ms": 35.914
+  },
+  {
+    "timestamp": "2025-07-24T02:06:07.155223",
+    "download_mbps": 328.11,
+    "upload_mbps": 30.08,
+    "ping_ms": 21.064
+  },
+  {
+    "timestamp": "2025-07-24T02:07:46.256455",
+    "download_mbps": 416.01,
+    "upload_mbps": 30.17,
+    "ping_ms": 41.202
+  },
+  {
+    "timestamp": "2025-07-24T02:08:03.771706",
+    "download_mbps": 511.42,
+    "upload_mbps": 32.43,
+    "ping_ms": 22.538
+  },
+  {
+    "timestamp": "2025-07-24T02:09:46.510757",
+    "download_mbps": 375.11,
+    "upload_mbps": 34.0,
+    "ping_ms": 18.568
+  },
+  {
+    "timestamp": "2025-07-24T02:10:06.197579",
+    "download_mbps": 412.17,
+    "upload_mbps": 31.43,
+    "ping_ms": 22.275
+  },
+  {
+    "timestamp": "2025-07-24T02:11:47.737324",
+    "download_mbps": 345.51,
+    "upload_mbps": 30.82,
+    "ping_ms": 35.8
+  },
+  {
+    "timestamp": "2025-07-24T02:12:05.738784",
+    "download_mbps": 463.84,
+    "upload_mbps": 31.67,
+    "ping_ms": 21.524
+  },
+  {
+    "timestamp": "2025-07-24T02:13:46.844460",
+    "download_mbps": 374.96,
+    "upload_mbps": 30.67,
+    "ping_ms": 37.254
+  },
+  {
+    "timestamp": "2025-07-24T02:14:06.602109",
+    "download_mbps": 363.41,
+    "upload_mbps": 26.3,
+    "ping_ms": 17.486
+  },
+  {
+    "timestamp": "2025-07-24T02:15:46.744061",
+    "download_mbps": 393.07,
+    "upload_mbps": 30.6,
+    "ping_ms": 43.864
+  },
+  {
+    "timestamp": "2025-07-24T02:16:06.662535",
+    "download_mbps": 387.39,
+    "upload_mbps": 32.49,
+    "ping_ms": 23.259
+  },
+  {
+    "timestamp": "2025-07-24T02:17:47.153966",
+    "download_mbps": 366.55,
+    "upload_mbps": 34.05,
+    "ping_ms": 40.811
+  },
+  {
+    "timestamp": "2025-07-24T02:18:05.208684",
+    "download_mbps": 437.22,
+    "upload_mbps": 32.26,
+    "ping_ms": 17.999
+  },
+  {
+    "timestamp": "2025-07-24T02:19:43.129124",
+    "download_mbps": 571.71,
+    "upload_mbps": 35.41,
+    "ping_ms": 17.343
+  },
+  {
+    "timestamp": "2025-07-24T02:20:00.870016",
+    "download_mbps": 511.8,
+    "upload_mbps": 33.86,
+    "ping_ms": 18.464
+  },
+  {
+    "timestamp": "2025-07-24T02:21:44.585892",
+    "download_mbps": 448.23,
+    "upload_mbps": 33.27,
+    "ping_ms": 21.034
+  },
+  {
+    "timestamp": "2025-07-24T02:22:03.912983",
+    "download_mbps": 420.36,
+    "upload_mbps": 24.89,
+    "ping_ms": 19.0
+  },
+  {
+    "timestamp": "2025-07-24T02:23:44.353471",
+    "download_mbps": 458.86,
+    "upload_mbps": 34.59,
+    "ping_ms": 17.946
+  },
+  {
+    "timestamp": "2025-07-24T02:24:02.663852",
+    "download_mbps": 472.03,
+    "upload_mbps": 34.2,
+    "ping_ms": 17.388
+  },
+  {
+    "timestamp": "2025-07-24T02:25:43.678552",
+    "download_mbps": 507.25,
+    "upload_mbps": 33.33,
+    "ping_ms": 20.126
+  },
+  {
+    "timestamp": "2025-07-24T02:26:02.326381",
+    "download_mbps": 450.99,
+    "upload_mbps": 33.44,
+    "ping_ms": 16.225
+  },
+  {
+    "timestamp": "2025-07-24T02:27:46.068062",
+    "download_mbps": 371.64,
+    "upload_mbps": 33.38,
+    "ping_ms": 16.181
+  },
+  {
+    "timestamp": "2025-07-24T02:28:04.075901",
+    "download_mbps": 468.83,
+    "upload_mbps": 33.53,
+    "ping_ms": 16.859
+  },
+  {
+    "timestamp": "2025-07-24T02:29:43.786589",
+    "download_mbps": 491.53,
+    "upload_mbps": 28.21,
+    "ping_ms": 21.376
+  },
+  {
+    "timestamp": "2025-07-24T02:30:02.749095",
+    "download_mbps": 429.91,
+    "upload_mbps": 33.09,
+    "ping_ms": 19.944
+  },
+  {
+    "timestamp": "2025-07-24T02:31:43.677197",
+    "download_mbps": 499.99,
+    "upload_mbps": 34.15,
+    "ping_ms": 15.169
+  },
+  {
+    "timestamp": "2025-07-24T02:32:02.282248",
+    "download_mbps": 452.93,
+    "upload_mbps": 30.0,
+    "ping_ms": 19.594
+  },
+  {
+    "timestamp": "2025-07-24T02:33:44.392830",
+    "download_mbps": 469.11,
+    "upload_mbps": 31.49,
+    "ping_ms": 22.18
+  },
+  {
+    "timestamp": "2025-07-24T02:34:01.942056",
+    "download_mbps": 539.1,
+    "upload_mbps": 34.69,
+    "ping_ms": 21.663
+  },
+  {
+    "timestamp": "2025-07-24T02:35:43.942952",
+    "download_mbps": 485.64,
+    "upload_mbps": 34.18,
+    "ping_ms": 18.929
+  },
+  {
+    "timestamp": "2025-07-24T02:36:02.449073",
+    "download_mbps": 457.15,
+    "upload_mbps": 33.97,
+    "ping_ms": 17.612
+  },
+  {
+    "timestamp": "2025-07-24T02:37:43.507359",
+    "download_mbps": 519.94,
+    "upload_mbps": 33.98,
+    "ping_ms": 16.336
+  },
+  {
+    "timestamp": "2025-07-24T02:38:03.310321",
+    "download_mbps": 390.67,
+    "upload_mbps": 23.06,
+    "ping_ms": 18.608
+  },
+  {
+    "timestamp": "2025-07-24T02:39:44.629929",
+    "download_mbps": 463.08,
+    "upload_mbps": 25.57,
+    "ping_ms": 21.704
+  },
+  {
+    "timestamp": "2025-07-24T02:40:03.364469",
+    "download_mbps": 451.48,
+    "upload_mbps": 33.8,
+    "ping_ms": 16.594
+  },
+  {
+    "timestamp": "2025-07-24T02:41:44.792987",
+    "download_mbps": 438.02,
+    "upload_mbps": 33.28,
+    "ping_ms": 23.344
+  },
+  {
+    "timestamp": "2025-07-24T02:42:05.038203",
+    "download_mbps": 369.63,
+    "upload_mbps": 28.24,
+    "ping_ms": 18.772
+  },
+  {
+    "timestamp": "2025-07-24T02:43:44.652545",
+    "download_mbps": 458.82,
+    "upload_mbps": 34.62,
+    "ping_ms": 24.777
+  },
+  {
+    "timestamp": "2025-07-24T02:44:02.782908",
+    "download_mbps": 479.67,
+    "upload_mbps": 34.41,
+    "ping_ms": 16.221
+  },
+  {
+    "timestamp": "2025-07-24T02:45:46.911034",
+    "download_mbps": 413.26,
+    "upload_mbps": 22.82,
+    "ping_ms": 19.469
+  },
+  {
+    "timestamp": "2025-07-24T02:46:05.083191",
+    "download_mbps": 520.24,
+    "upload_mbps": 24.78,
+    "ping_ms": 17.684
+  },
+  {
+    "timestamp": "2025-07-24T02:47:43.510155",
+    "download_mbps": 517.43,
+    "upload_mbps": 33.18,
+    "ping_ms": 17.039
+  },
+  {
+    "timestamp": "2025-07-24T02:48:01.033775",
+    "download_mbps": 535.01,
+    "upload_mbps": 35.11,
+    "ping_ms": 15.877
+  },
+  {
+    "timestamp": "2025-07-24T02:49:44.829796",
+    "download_mbps": 435.85,
+    "upload_mbps": 33.85,
+    "ping_ms": 21.101
+  },
+  {
+    "timestamp": "2025-07-24T02:50:04.393924",
+    "download_mbps": 396.07,
+    "upload_mbps": 32.91,
+    "ping_ms": 16.487
+  },
+  {
+    "timestamp": "2025-07-24T02:51:44.719128",
+    "download_mbps": 438.99,
+    "upload_mbps": 28.1,
+    "ping_ms": 25.046
+  },
+  {
+    "timestamp": "2025-07-24T02:52:03.616901",
+    "download_mbps": 505.2,
+    "upload_mbps": 30.56,
+    "ping_ms": 19.906
+  },
+  {
+    "timestamp": "2025-07-24T02:53:46.189849",
+    "download_mbps": 369.93,
+    "upload_mbps": 33.51,
+    "ping_ms": 16.354
+  },
+  {
+    "timestamp": "2025-07-24T02:54:05.920179",
+    "download_mbps": 380.65,
+    "upload_mbps": 22.98,
+    "ping_ms": 16.201
+  },
+  {
+    "timestamp": "2025-07-24T02:55:46.007395",
+    "download_mbps": 368.25,
+    "upload_mbps": 30.25,
+    "ping_ms": 20.191
+  },
+  {
+    "timestamp": "2025-07-24T02:56:04.723993",
+    "download_mbps": 428.14,
+    "upload_mbps": 26.33,
+    "ping_ms": 18.439
+  },
+  {
+    "timestamp": "2025-07-24T02:57:43.753594",
+    "download_mbps": 513.5,
+    "upload_mbps": 33.99,
+    "ping_ms": 18.363
+  },
+  {
+    "timestamp": "2025-07-24T02:58:02.212994",
+    "download_mbps": 463.91,
+    "upload_mbps": 30.97,
+    "ping_ms": 18.331
+  },
+  {
+    "timestamp": "2025-07-24T02:59:44.684065",
+    "download_mbps": 447.56,
+    "upload_mbps": 33.08,
+    "ping_ms": 23.808
+  },
+  {
+    "timestamp": "2025-07-24T03:00:02.460510",
+    "download_mbps": 513.22,
+    "upload_mbps": 34.26,
+    "ping_ms": 18.759
+  },
+  {
+    "timestamp": "2025-07-24T03:05:44.189010",
+    "download_mbps": 477.68,
+    "upload_mbps": 34.23,
+    "ping_ms": 21.786
+  },
+  {
+    "timestamp": "2025-07-24T03:06:02.367958",
+    "download_mbps": 476.58,
+    "upload_mbps": 34.24,
+    "ping_ms": 16.704
+  },
+  {
+    "timestamp": "2025-07-24T03:07:44.742254",
+    "download_mbps": 437.22,
+    "upload_mbps": 30.0,
+    "ping_ms": 21.735
+  },
+  {
+    "timestamp": "2025-07-24T03:08:03.480657",
+    "download_mbps": 450.41,
+    "upload_mbps": 33.64,
+    "ping_ms": 20.041
+  },
+  {
+    "timestamp": "2025-07-24T03:09:44.001058",
+    "download_mbps": 485.45,
+    "upload_mbps": 34.92,
+    "ping_ms": 19.661
+  },
+  {
+    "timestamp": "2025-07-24T03:10:02.230172",
+    "download_mbps": 473.13,
+    "upload_mbps": 34.67,
+    "ping_ms": 18.291
+  },
+  {
+    "timestamp": "2025-07-24T03:11:44.512409",
+    "download_mbps": 498.56,
+    "upload_mbps": 33.87,
+    "ping_ms": 22.935
+  },
+  {
+    "timestamp": "2025-07-24T03:12:03.752218",
+    "download_mbps": 420.58,
+    "upload_mbps": 23.63,
+    "ping_ms": 15.129
+  },
+  {
+    "timestamp": "2025-07-24T03:13:44.743614",
+    "download_mbps": 433.31,
+    "upload_mbps": 33.74,
+    "ping_ms": 21.202
+  },
+  {
+    "timestamp": "2025-07-24T03:14:01.988259",
+    "download_mbps": 559.19,
+    "upload_mbps": 28.66,
+    "ping_ms": 15.846
+  },
+  {
+    "timestamp": "2025-07-24T03:15:43.230814",
+    "download_mbps": 539.32,
+    "upload_mbps": 31.27,
+    "ping_ms": 16.579
+  },
+  {
+    "timestamp": "2025-07-24T03:16:00.752142",
+    "download_mbps": 531.05,
+    "upload_mbps": 35.54,
+    "ping_ms": 19.328
+  },
+  {
+    "timestamp": "2025-07-24T03:17:43.073697",
+    "download_mbps": 550.57,
+    "upload_mbps": 34.76,
+    "ping_ms": 18.047
+  },
+  {
+    "timestamp": "2025-07-24T03:18:00.349616",
+    "download_mbps": 553.92,
+    "upload_mbps": 35.24,
+    "ping_ms": 15.881
+  },
+  {
+    "timestamp": "2025-07-24T03:19:46.694865",
+    "download_mbps": 440.97,
+    "upload_mbps": 18.93,
+    "ping_ms": 13.939
+  },
+  {
+    "timestamp": "2025-07-24T03:20:06.117714",
+    "download_mbps": 390.19,
+    "upload_mbps": 34.87,
+    "ping_ms": 21.04
+  },
+  {
+    "timestamp": "2025-07-24T03:21:43.192665",
+    "download_mbps": 547.94,
+    "upload_mbps": 35.74,
+    "ping_ms": 17.912
+  },
+  {
+    "timestamp": "2025-07-24T03:22:00.610564",
+    "download_mbps": 539.19,
+    "upload_mbps": 33.94,
+    "ping_ms": 17.238
+  },
+  {
+    "timestamp": "2025-07-24T03:23:42.748881",
+    "download_mbps": 570.42,
+    "upload_mbps": 35.45,
+    "ping_ms": 16.088
+  },
+  {
+    "timestamp": "2025-07-24T03:24:00.542470",
+    "download_mbps": 518.87,
+    "upload_mbps": 31.74,
+    "ping_ms": 15.88
+  },
+  {
+    "timestamp": "2025-07-24T03:25:42.627645",
+    "download_mbps": 585.45,
+    "upload_mbps": 34.83,
+    "ping_ms": 13.829
+  },
+  {
+    "timestamp": "2025-07-24T03:25:59.847030",
+    "download_mbps": 579.81,
+    "upload_mbps": 33.86,
+    "ping_ms": 18.768
+  },
+  {
+    "timestamp": "2025-07-24T03:27:43.649198",
+    "download_mbps": 517.39,
+    "upload_mbps": 19.8,
+    "ping_ms": 19.451
+  },
+  {
+    "timestamp": "2025-07-24T03:28:01.840548",
+    "download_mbps": 504.26,
+    "upload_mbps": 35.7,
+    "ping_ms": 16.349
+  },
+  {
+    "timestamp": "2025-07-24T03:29:43.701589",
+    "download_mbps": 502.24,
+    "upload_mbps": 35.15,
+    "ping_ms": 17.965
+  },
+  {
+    "timestamp": "2025-07-24T03:30:01.790905",
+    "download_mbps": 491.0,
+    "upload_mbps": 35.02,
+    "ping_ms": 17.514
+  },
+  {
+    "timestamp": "2025-07-24T03:31:42.846251",
+    "download_mbps": 569.4,
+    "upload_mbps": 34.37,
+    "ping_ms": 16.2
+  },
+  {
+    "timestamp": "2025-07-24T03:32:00.412799",
+    "download_mbps": 523.24,
+    "upload_mbps": 35.13,
+    "ping_ms": 20.668
+  },
+  {
+    "timestamp": "2025-07-24T03:33:43.038152",
+    "download_mbps": 552.24,
+    "upload_mbps": 35.56,
+    "ping_ms": 16.374
+  },
+  {
+    "timestamp": "2025-07-24T03:34:00.073178",
+    "download_mbps": 570.4,
+    "upload_mbps": 34.48,
+    "ping_ms": 17.467
+  },
+  {
+    "timestamp": "2025-07-24T03:35:43.394016",
+    "download_mbps": 525.84,
+    "upload_mbps": 35.91,
+    "ping_ms": 19.112
+  },
+  {
+    "timestamp": "2025-07-24T03:36:01.155514",
+    "download_mbps": 506.82,
+    "upload_mbps": 34.87,
+    "ping_ms": 16.323
+  },
+  {
+    "timestamp": "2025-07-24T03:37:43.426429",
+    "download_mbps": 513.33,
+    "upload_mbps": 31.32,
+    "ping_ms": 15.263
+  },
+  {
+    "timestamp": "2025-07-24T03:38:00.658690",
+    "download_mbps": 555.76,
+    "upload_mbps": 31.68,
+    "ping_ms": 19.005
+  },
+  {
+    "timestamp": "2025-07-24T03:39:42.998195",
+    "download_mbps": 548.2,
+    "upload_mbps": 35.52,
+    "ping_ms": 19.644
+  },
+  {
+    "timestamp": "2025-07-24T03:40:01.874038",
+    "download_mbps": 410.15,
+    "upload_mbps": 35.06,
+    "ping_ms": 13.35
+  },
+  {
+    "timestamp": "2025-07-24T03:41:42.933925",
+    "download_mbps": 527.75,
+    "upload_mbps": 35.73,
+    "ping_ms": 13.416
+  },
+  {
+    "timestamp": "2025-07-24T03:42:01.001145",
+    "download_mbps": 540.92,
+    "upload_mbps": 34.35,
+    "ping_ms": 15.762
+  },
+  {
+    "timestamp": "2025-07-24T03:43:43.215969",
+    "download_mbps": 514.43,
+    "upload_mbps": 30.22,
+    "ping_ms": 15.531
+  },
+  {
+    "timestamp": "2025-07-24T03:44:00.627629",
+    "download_mbps": 561.48,
+    "upload_mbps": 35.22,
+    "ping_ms": 12.353
+  },
+  {
+    "timestamp": "2025-07-24T03:45:46.708781",
+    "download_mbps": 318.42,
+    "upload_mbps": 30.3,
+    "ping_ms": 12.3
+  },
+  {
+    "timestamp": "2025-07-24T03:46:04.383127",
+    "download_mbps": 533.09,
+    "upload_mbps": 36.05,
+    "ping_ms": 16.915
+  },
+  {
+    "timestamp": "2025-07-24T03:47:42.736949",
+    "download_mbps": 547.3,
+    "upload_mbps": 35.02,
+    "ping_ms": 14.468
+  },
+  {
+    "timestamp": "2025-07-24T03:47:59.718471",
+    "download_mbps": 545.03,
+    "upload_mbps": 33.46,
+    "ping_ms": 14.235
+  },
+  {
+    "timestamp": "2025-07-24T03:49:44.772544",
+    "download_mbps": 405.95,
+    "upload_mbps": 33.88,
+    "ping_ms": 13.317
+  },
+  {
+    "timestamp": "2025-07-24T03:50:01.986544",
+    "download_mbps": 526.74,
+    "upload_mbps": 28.58,
+    "ping_ms": 14.576
+  },
+  {
+    "timestamp": "2025-07-24T03:51:42.751047",
+    "download_mbps": 550.63,
+    "upload_mbps": 28.86,
+    "ping_ms": 12.14
+  },
+  {
+    "timestamp": "2025-07-24T03:52:00.108818",
+    "download_mbps": 548.02,
+    "upload_mbps": 25.87,
+    "ping_ms": 15.411
+  },
+  {
+    "timestamp": "2025-07-24T03:53:42.913290",
+    "download_mbps": 540.24,
+    "upload_mbps": 29.31,
+    "ping_ms": 18.98
+  },
+  {
+    "timestamp": "2025-07-24T03:54:01.291750",
+    "download_mbps": 514.77,
+    "upload_mbps": 34.84,
+    "ping_ms": 15.785
+  },
+  {
+    "timestamp": "2025-07-24T03:55:46.732645",
+    "download_mbps": 317.12,
+    "upload_mbps": 29.23,
+    "ping_ms": 13.585
+  },
+  {
+    "timestamp": "2025-07-24T03:56:03.936191",
+    "download_mbps": 532.97,
+    "upload_mbps": 29.29,
+    "ping_ms": 14.877
+  },
+  {
+    "timestamp": "2025-07-24T03:57:45.532719",
+    "download_mbps": 392.45,
+    "upload_mbps": 35.79,
+    "ping_ms": 19.579
+  },
+  {
+    "timestamp": "2025-07-24T03:58:02.048477",
+    "download_mbps": 585.04,
+    "upload_mbps": 28.36,
+    "ping_ms": 16.302
+  },
+  {
+    "timestamp": "2025-07-24T03:59:42.712346",
+    "download_mbps": 549.46,
+    "upload_mbps": 35.8,
+    "ping_ms": 14.501
+  },
+  {
+    "timestamp": "2025-07-24T03:59:59.427021",
+    "download_mbps": 566.43,
+    "upload_mbps": 35.8,
+    "ping_ms": 12.363
+  },
+  {
+    "timestamp": "2025-07-24T04:05:42.519210",
+    "download_mbps": 574.64,
+    "upload_mbps": 30.37,
+    "ping_ms": 15.551
+  },
+  {
+    "timestamp": "2025-07-24T04:06:00.174912",
+    "download_mbps": 494.84,
+    "upload_mbps": 24.54,
+    "ping_ms": 13.499
+  },
+  {
+    "timestamp": "2025-07-24T04:07:42.881491",
+    "download_mbps": 534.62,
+    "upload_mbps": 34.45,
+    "ping_ms": 13.954
+  },
+  {
+    "timestamp": "2025-07-24T04:08:00.766049",
+    "download_mbps": 468.08,
+    "upload_mbps": 33.45,
+    "ping_ms": 13.353
+  },
+  {
+    "timestamp": "2025-07-24T04:09:43.374919",
+    "download_mbps": 578.44,
+    "upload_mbps": 35.43,
+    "ping_ms": 13.204
+  },
+  {
+    "timestamp": "2025-07-24T04:10:00.757245",
+    "download_mbps": 507.03,
+    "upload_mbps": 34.93,
+    "ping_ms": 14.429
+  },
+  {
+    "timestamp": "2025-07-24T04:11:43.280736",
+    "download_mbps": 512.42,
+    "upload_mbps": 32.61,
+    "ping_ms": 16.69
+  },
+  {
+    "timestamp": "2025-07-24T04:12:00.268709",
+    "download_mbps": 541.79,
+    "upload_mbps": 35.71,
+    "ping_ms": 14.59
+  },
+  {
+    "timestamp": "2025-07-24T04:13:42.515157",
+    "download_mbps": 568.55,
+    "upload_mbps": 28.31,
+    "ping_ms": 14.265
+  },
+  {
+    "timestamp": "2025-07-24T04:13:59.040728",
+    "download_mbps": 583.11,
+    "upload_mbps": 22.4,
+    "ping_ms": 13.168
+  },
+  {
+    "timestamp": "2025-07-24T04:15:46.766986",
+    "download_mbps": 324.86,
+    "upload_mbps": 33.85,
+    "ping_ms": 14.147
+  },
+  {
+    "timestamp": "2025-07-24T04:16:03.072297",
+    "download_mbps": 558.57,
+    "upload_mbps": 33.44,
+    "ping_ms": 20.71
+  },
+  {
+    "timestamp": "2025-07-24T04:17:43.507800",
+    "download_mbps": 483.94,
+    "upload_mbps": 36.43,
+    "ping_ms": 13.209
+  },
+  {
+    "timestamp": "2025-07-24T04:18:04.571945",
+    "download_mbps": 280.12,
+    "upload_mbps": 22.42,
+    "ping_ms": 14.67,
+    "below_threshold": true
+  },
+  {
+    "timestamp": "2025-07-24T04:19:42.802574",
+    "download_mbps": 543.2,
+    "upload_mbps": 25.2,
+    "ping_ms": 11.49
+  },
+  {
+    "timestamp": "2025-07-24T04:20:02.125191",
+    "download_mbps": 540.3,
+    "upload_mbps": 19.78,
+    "ping_ms": 14.748
+  },
+  {
+    "timestamp": "2025-07-24T04:21:43.408892",
+    "download_mbps": 497.23,
+    "upload_mbps": 35.78,
+    "ping_ms": 15.904
+  },
+  {
+    "timestamp": "2025-07-24T04:22:03.507656",
+    "download_mbps": 364.39,
+    "upload_mbps": 33.93,
+    "ping_ms": 12.157
+  },
+  {
+    "timestamp": "2025-07-24T04:23:42.502455",
+    "download_mbps": 569.63,
+    "upload_mbps": 36.08,
+    "ping_ms": 14.947
+  },
+  {
+    "timestamp": "2025-07-24T04:23:58.882756",
+    "download_mbps": 603.6,
+    "upload_mbps": 34.17,
+    "ping_ms": 14.55
+  },
+  {
+    "timestamp": "2025-07-24T04:25:42.305088",
+    "download_mbps": 586.14,
+    "upload_mbps": 36.29,
+    "ping_ms": 15.32
+  },
+  {
+    "timestamp": "2025-07-24T04:25:59.381541",
+    "download_mbps": 537.18,
+    "upload_mbps": 34.44,
+    "ping_ms": 15.692
+  },
+  {
+    "timestamp": "2025-07-24T04:27:44.781255",
+    "download_mbps": 409.71,
+    "upload_mbps": 35.48,
+    "ping_ms": 14.377
+  },
+  {
+    "timestamp": "2025-07-24T04:28:05.280969",
+    "download_mbps": 546.57,
+    "upload_mbps": 16.98,
+    "ping_ms": 14.764
+  },
+  {
+    "timestamp": "2025-07-24T04:29:42.321663",
+    "download_mbps": 586.08,
+    "upload_mbps": 32.2,
+    "ping_ms": 11.943
+  },
+  {
+    "timestamp": "2025-07-24T04:30:00.358656",
+    "download_mbps": 475.14,
+    "upload_mbps": 35.65,
+    "ping_ms": 22.907
+  },
+  {
+    "timestamp": "2025-07-24T04:31:43.235144",
+    "download_mbps": 516.58,
+    "upload_mbps": 34.91,
+    "ping_ms": 14.229
+  },
+  {
+    "timestamp": "2025-07-24T04:32:00.463511",
+    "download_mbps": 524.34,
+    "upload_mbps": 34.97,
+    "ping_ms": 14.669
+  },
+  {
+    "timestamp": "2025-07-24T04:33:42.881328",
+    "download_mbps": 550.54,
+    "upload_mbps": 28.34,
+    "ping_ms": 15.845
+  },
+  {
+    "timestamp": "2025-07-24T04:34:00.272381",
+    "download_mbps": 517.65,
+    "upload_mbps": 31.34,
+    "ping_ms": 16.125
+  },
+  {
+    "timestamp": "2025-07-24T04:35:43.003485",
+    "download_mbps": 538.23,
+    "upload_mbps": 35.42,
+    "ping_ms": 16.564
+  },
+  {
+    "timestamp": "2025-07-24T04:36:00.187123",
+    "download_mbps": 534.98,
+    "upload_mbps": 35.92,
+    "ping_ms": 14.736
+  },
+  {
+    "timestamp": "2025-07-24T04:37:42.498115",
+    "download_mbps": 562.04,
+    "upload_mbps": 29.89,
+    "ping_ms": 14.443
+  },
+  {
+    "timestamp": "2025-07-24T04:37:59.928079",
+    "download_mbps": 536.66,
+    "upload_mbps": 28.72,
+    "ping_ms": 15.368
+  },
+  {
+    "timestamp": "2025-07-24T04:39:43.559005",
+    "download_mbps": 516.14,
+    "upload_mbps": 23.91,
+    "ping_ms": 14.986
+  },
+  {
+    "timestamp": "2025-07-24T04:40:00.299688",
+    "download_mbps": 568.02,
+    "upload_mbps": 35.79,
+    "ping_ms": 14.677
+  },
+  {
+    "timestamp": "2025-07-24T04:41:42.665415",
+    "download_mbps": 547.21,
+    "upload_mbps": 35.55,
+    "ping_ms": 14.446
+  },
+  {
+    "timestamp": "2025-07-24T04:42:02.301789",
+    "download_mbps": 396.41,
+    "upload_mbps": 16.73,
+    "ping_ms": 15.047
+  },
+  {
+    "timestamp": "2025-07-24T04:43:43.461498",
+    "download_mbps": 508.32,
+    "upload_mbps": 12.82,
+    "ping_ms": 14.548
+  },
+  {
+    "timestamp": "2025-07-24T04:44:02.906905",
+    "download_mbps": 564.05,
+    "upload_mbps": 35.27,
+    "ping_ms": 74.862
+  },
+  {
+    "timestamp": "2025-07-24T04:45:43.601914",
+    "download_mbps": 562.73,
+    "upload_mbps": 24.94,
+    "ping_ms": 13.705
+  },
+  {
+    "timestamp": "2025-07-24T04:46:00.332296",
+    "download_mbps": 570.76,
+    "upload_mbps": 36.19,
+    "ping_ms": 15.492
+  },
+  {
+    "timestamp": "2025-07-24T04:47:42.536778",
+    "download_mbps": 558.51,
+    "upload_mbps": 33.99,
+    "ping_ms": 13.602
+  },
+  {
+    "timestamp": "2025-07-24T04:47:59.099583",
+    "download_mbps": 586.02,
+    "upload_mbps": 33.52,
+    "ping_ms": 13.338
+  },
+  {
+    "timestamp": "2025-07-24T04:49:45.269036",
+    "download_mbps": 384.65,
+    "upload_mbps": 30.95,
+    "ping_ms": 15.867
+  },
+  {
+    "timestamp": "2025-07-24T04:50:02.271222",
+    "download_mbps": 540.19,
+    "upload_mbps": 35.18,
+    "ping_ms": 12.274
+  },
+  {
+    "timestamp": "2025-07-24T04:51:42.883957",
+    "download_mbps": 554.74,
+    "upload_mbps": 21.38,
+    "ping_ms": 15.645
+  },
+  {
+    "timestamp": "2025-07-24T04:51:59.924185",
+    "download_mbps": 553.53,
+    "upload_mbps": 29.92,
+    "ping_ms": 13.353
+  },
+  {
+    "timestamp": "2025-07-24T04:53:42.805507",
+    "download_mbps": 549.32,
+    "upload_mbps": 35.2,
+    "ping_ms": 16.337
+  },
+  {
+    "timestamp": "2025-07-24T04:54:00.342950",
+    "download_mbps": 500.45,
+    "upload_mbps": 32.93,
+    "ping_ms": 14.197
+  },
+  {
+    "timestamp": "2025-07-24T04:55:42.688559",
+    "download_mbps": 543.75,
+    "upload_mbps": 35.27,
+    "ping_ms": 13.394
+  },
+  {
+    "timestamp": "2025-07-24T04:55:59.558302",
+    "download_mbps": 547.83,
+    "upload_mbps": 32.68,
+    "ping_ms": 12.488
+  },
+  {
+    "timestamp": "2025-07-24T04:57:46.829253",
+    "download_mbps": 319.78,
+    "upload_mbps": 24.7,
+    "ping_ms": 15.693
+  },
+  {
+    "timestamp": "2025-07-24T04:58:03.594603",
+    "download_mbps": 527.68,
+    "upload_mbps": 35.0,
+    "ping_ms": 18.251
+  },
+  {
+    "timestamp": "2025-07-24T04:59:42.860135",
+    "download_mbps": 537.13,
+    "upload_mbps": 35.99,
+    "ping_ms": 13.594
+  },
+  {
+    "timestamp": "2025-07-24T05:00:00.480108",
+    "download_mbps": 516.33,
+    "upload_mbps": 27.91,
+    "ping_ms": 15.679
+  },
+  {
+    "timestamp": "2025-07-24T05:05:42.396591",
+    "download_mbps": 578.13,
+    "upload_mbps": 33.25,
+    "ping_ms": 12.798
+  },
+  {
+    "timestamp": "2025-07-24T05:06:02.629776",
+    "download_mbps": 362.49,
+    "upload_mbps": 35.55,
+    "ping_ms": 21.896
+  },
+  {
+    "timestamp": "2025-07-24T05:07:42.845278",
+    "download_mbps": 543.54,
+    "upload_mbps": 35.97,
+    "ping_ms": 15.704
+  },
+  {
+    "timestamp": "2025-07-24T05:07:59.973061",
+    "download_mbps": 532.08,
+    "upload_mbps": 35.3,
+    "ping_ms": 15.478
+  },
+  {
+    "timestamp": "2025-07-24T05:09:42.749653",
+    "download_mbps": 552.25,
+    "upload_mbps": 36.05,
+    "ping_ms": 14.035
+  },
+  {
+    "timestamp": "2025-07-24T05:10:00.785879",
+    "download_mbps": 466.2,
+    "upload_mbps": 34.66,
+    "ping_ms": 14.953
+  },
+  {
+    "timestamp": "2025-07-24T05:11:42.569743",
+    "download_mbps": 573.65,
+    "upload_mbps": 35.7,
+    "ping_ms": 15.308
+  },
+  {
+    "timestamp": "2025-07-24T05:12:01.468266",
+    "download_mbps": 414.66,
+    "upload_mbps": 36.04,
+    "ping_ms": 14.103
+  },
+  {
+    "timestamp": "2025-07-24T05:13:42.278724",
+    "download_mbps": 587.55,
+    "upload_mbps": 35.05,
+    "ping_ms": 13.221
+  },
+  {
+    "timestamp": "2025-07-24T05:13:58.846947",
+    "download_mbps": 587.39,
+    "upload_mbps": 35.08,
+    "ping_ms": 15.799
+  },
+  {
+    "timestamp": "2025-07-24T05:15:42.626689",
+    "download_mbps": 558.11,
+    "upload_mbps": 35.85,
+    "ping_ms": 14.838
+  },
+  {
+    "timestamp": "2025-07-24T05:16:02.624515",
+    "download_mbps": 402.43,
+    "upload_mbps": 28.17,
+    "ping_ms": 15.576
+  },
+  {
+    "timestamp": "2025-07-24T05:17:42.634856",
+    "download_mbps": 554.13,
+    "upload_mbps": 35.53,
+    "ping_ms": 15.124
+  },
+  {
+    "timestamp": "2025-07-24T05:17:59.747475",
+    "download_mbps": 534.69,
+    "upload_mbps": 34.03,
+    "ping_ms": 17.407
+  },
+  {
+    "timestamp": "2025-07-24T05:19:43.136444",
+    "download_mbps": 505.92,
+    "upload_mbps": 35.99,
+    "ping_ms": 13.088
+  },
+  {
+    "timestamp": "2025-07-24T05:20:01.953436",
+    "download_mbps": 420.58,
+    "upload_mbps": 35.51,
+    "ping_ms": 15.517
+  },
+  {
+    "timestamp": "2025-07-24T05:21:42.944250",
+    "download_mbps": 528.2,
+    "upload_mbps": 32.35,
+    "ping_ms": 12.25
+  },
+  {
+    "timestamp": "2025-07-24T05:21:59.569507",
+    "download_mbps": 571.99,
+    "upload_mbps": 34.78,
+    "ping_ms": 13.629
+  },
+  {
+    "timestamp": "2025-07-24T05:23:43.084325",
+    "download_mbps": 522.09,
+    "upload_mbps": 35.77,
+    "ping_ms": 15.724
+  },
+  {
+    "timestamp": "2025-07-24T05:23:59.944759",
+    "download_mbps": 553.19,
+    "upload_mbps": 34.04,
+    "ping_ms": 13.806
+  },
+  {
+    "timestamp": "2025-07-24T05:25:42.960136",
+    "download_mbps": 582.67,
+    "upload_mbps": 31.92,
+    "ping_ms": 15.721
+  },
+  {
+    "timestamp": "2025-07-24T05:26:00.682262",
+    "download_mbps": 496.34,
+    "upload_mbps": 28.36,
+    "ping_ms": 14.285
+  },
+  {
+    "timestamp": "2025-07-24T05:27:43.133559",
+    "download_mbps": 514.31,
+    "upload_mbps": 36.13,
+    "ping_ms": 13.947
+  },
+  {
+    "timestamp": "2025-07-24T05:28:00.349316",
+    "download_mbps": 522.2,
+    "upload_mbps": 35.21,
+    "ping_ms": 13.674
+  },
+  {
+    "timestamp": "2025-07-24T05:29:43.736521",
+    "download_mbps": 532.24,
+    "upload_mbps": 32.17,
+    "ping_ms": 14.031
+  },
+  {
+    "timestamp": "2025-07-24T05:30:02.667618",
+    "download_mbps": 413.8,
+    "upload_mbps": 32.79,
+    "ping_ms": 15.365
+  },
+  {
+    "timestamp": "2025-07-24T05:31:42.411138",
+    "download_mbps": 574.26,
+    "upload_mbps": 35.84,
+    "ping_ms": 15.162
+  },
+  {
+    "timestamp": "2025-07-24T05:31:59.387874",
+    "download_mbps": 542.99,
+    "upload_mbps": 35.1,
+    "ping_ms": 15.038
+  },
+  {
+    "timestamp": "2025-07-24T05:33:43.626879",
+    "download_mbps": 475.23,
+    "upload_mbps": 31.4,
+    "ping_ms": 13.196
+  },
+  {
+    "timestamp": "2025-07-24T05:34:00.223090",
+    "download_mbps": 575.52,
+    "upload_mbps": 35.7,
+    "ping_ms": 12.863
+  },
+  {
+    "timestamp": "2025-07-24T05:35:42.778245",
+    "download_mbps": 544.92,
+    "upload_mbps": 35.25,
+    "ping_ms": 15.398
+  },
+  {
+    "timestamp": "2025-07-24T05:35:59.584387",
+    "download_mbps": 565.39,
+    "upload_mbps": 35.75,
+    "ping_ms": 15.851
+  },
+  {
+    "timestamp": "2025-07-24T05:37:43.022200",
+    "download_mbps": 524.08,
+    "upload_mbps": 36.08,
+    "ping_ms": 12.738
+  },
+  {
+    "timestamp": "2025-07-24T05:38:00.175126",
+    "download_mbps": 534.54,
+    "upload_mbps": 33.27,
+    "ping_ms": 16.507
+  },
+  {
+    "timestamp": "2025-07-24T05:39:42.439549",
+    "download_mbps": 573.98,
+    "upload_mbps": 35.91,
+    "ping_ms": 13.741
+  },
+  {
+    "timestamp": "2025-07-24T05:39:59.384017",
+    "download_mbps": 547.05,
+    "upload_mbps": 35.2,
+    "ping_ms": 15.826
+  },
+  {
+    "timestamp": "2025-07-24T05:41:44.145096",
+    "download_mbps": 444.29,
+    "upload_mbps": 33.94,
+    "ping_ms": 13.648
+  },
+  {
+    "timestamp": "2025-07-24T05:42:00.584242",
+    "download_mbps": 593.16,
+    "upload_mbps": 36.19,
+    "ping_ms": 15.441
+  },
+  {
+    "timestamp": "2025-07-24T05:43:43.323104",
+    "download_mbps": 504.16,
+    "upload_mbps": 33.07,
+    "ping_ms": 15.539
+  },
+  {
+    "timestamp": "2025-07-24T05:44:01.402027",
+    "download_mbps": 460.9,
+    "upload_mbps": 35.28,
+    "ping_ms": 14.623
+  },
+  {
+    "timestamp": "2025-07-24T05:45:42.730041",
+    "download_mbps": 545.18,
+    "upload_mbps": 35.47,
+    "ping_ms": 12.534
+  },
+  {
+    "timestamp": "2025-07-24T05:45:59.573806",
+    "download_mbps": 558.37,
+    "upload_mbps": 35.35,
+    "ping_ms": 13.342
+  },
+  {
+    "timestamp": "2025-07-24T05:47:46.824104",
+    "download_mbps": 331.55,
+    "upload_mbps": 24.37,
+    "ping_ms": 15.72
+  },
+  {
+    "timestamp": "2025-07-24T05:48:02.930604",
+    "download_mbps": 558.9,
+    "upload_mbps": 35.47,
+    "ping_ms": 13.316
+  },
+  {
+    "timestamp": "2025-07-24T05:49:44.534258",
+    "download_mbps": 420.77,
+    "upload_mbps": 34.74,
+    "ping_ms": 15.921
+  },
+  {
+    "timestamp": "2025-07-24T05:50:01.635805",
+    "download_mbps": 537.05,
+    "upload_mbps": 35.53,
+    "ping_ms": 15.655
+  },
+  {
+    "timestamp": "2025-07-24T05:51:42.996386",
+    "download_mbps": 524.68,
+    "upload_mbps": 34.41,
+    "ping_ms": 14.247
+  },
+  {
+    "timestamp": "2025-07-24T05:51:59.366122",
+    "download_mbps": 608.58,
+    "upload_mbps": 35.58,
+    "ping_ms": 14.196
+  },
+  {
+    "timestamp": "2025-07-24T05:53:42.392171",
+    "download_mbps": 572.99,
+    "upload_mbps": 35.74,
+    "ping_ms": 12.675
+  },
+  {
+    "timestamp": "2025-07-24T05:53:59.782543",
+    "download_mbps": 514.5,
+    "upload_mbps": 33.48,
+    "ping_ms": 15.255
+  },
+  {
+    "timestamp": "2025-07-24T05:55:42.731238",
+    "download_mbps": 562.63,
+    "upload_mbps": 34.51,
+    "ping_ms": 13.033
+  },
+  {
+    "timestamp": "2025-07-24T05:56:00.693414",
+    "download_mbps": 470.52,
+    "upload_mbps": 29.76,
+    "ping_ms": 13.537
+  },
+  {
+    "timestamp": "2025-07-24T05:57:43.639258",
+    "download_mbps": 474.47,
+    "upload_mbps": 36.16,
+    "ping_ms": 15.061
+  },
+  {
+    "timestamp": "2025-07-24T05:58:02.646429",
+    "download_mbps": 411.74,
+    "upload_mbps": 28.45,
+    "ping_ms": 15.161
+  },
+  {
+    "timestamp": "2025-07-24T05:59:42.774181",
+    "download_mbps": 548.01,
+    "upload_mbps": 29.4,
+    "ping_ms": 13.923
+  },
+  {
+    "timestamp": "2025-07-24T05:59:59.722931",
+    "download_mbps": 546.39,
+    "upload_mbps": 31.08,
+    "ping_ms": 16.186
+  },
+  {
+    "timestamp": "2025-07-24T06:01:42.542535",
+    "download_mbps": 572.24,
+    "upload_mbps": 34.65,
+    "ping_ms": 17.91
+  },
+  {
+    "timestamp": "2025-07-24T06:01:59.793013",
+    "download_mbps": 521.02,
+    "upload_mbps": 35.82,
+    "ping_ms": 14.595
+  },
+  {
+    "timestamp": "2025-07-24T06:03:42.457486",
+    "download_mbps": 572.06,
+    "upload_mbps": 35.42,
+    "ping_ms": 14.542
+  },
+  {
+    "timestamp": "2025-07-24T06:03:59.320048",
+    "download_mbps": 555.2,
+    "upload_mbps": 33.61,
+    "ping_ms": 15.272
+  },
+  {
+    "timestamp": "2025-07-24T06:05:42.546547",
+    "download_mbps": 570.13,
+    "upload_mbps": 22.85,
+    "ping_ms": 15.752
+  },
+  {
+    "timestamp": "2025-07-24T06:06:00.202750",
+    "download_mbps": 486.28,
+    "upload_mbps": 34.55,
+    "ping_ms": 15.056
+  },
+  {
+    "timestamp": "2025-07-24T06:07:43.634910",
+    "download_mbps": 480.13,
+    "upload_mbps": 34.92,
+    "ping_ms": 17.666
+  },
+  {
+    "timestamp": "2025-07-24T06:08:00.632755",
+    "download_mbps": 540.69,
+    "upload_mbps": 35.64,
+    "ping_ms": 15.3
+  },
+  {
+    "timestamp": "2025-07-24T06:09:43.191161",
+    "download_mbps": 506.78,
+    "upload_mbps": 35.41,
+    "ping_ms": 13.226
+  },
+  {
+    "timestamp": "2025-07-24T06:10:00.301614",
+    "download_mbps": 538.03,
+    "upload_mbps": 35.31,
+    "ping_ms": 15.43
+  },
+  {
+    "timestamp": "2025-07-24T06:11:43.374050",
+    "download_mbps": 554.44,
+    "upload_mbps": 15.71,
+    "ping_ms": 15.568
+  },
+  {
+    "timestamp": "2025-07-24T06:12:00.225401",
+    "download_mbps": 554.3,
+    "upload_mbps": 35.54,
+    "ping_ms": 12.892
+  },
+  {
+    "timestamp": "2025-07-24T06:13:42.417487",
+    "download_mbps": 567.62,
+    "upload_mbps": 30.89,
+    "ping_ms": 13.187
+  },
+  {
+    "timestamp": "2025-07-24T06:13:59.218817",
+    "download_mbps": 561.3,
+    "upload_mbps": 30.65,
+    "ping_ms": 15.07
+  },
+  {
+    "timestamp": "2025-07-24T06:15:45.892432",
+    "download_mbps": 364.26,
+    "upload_mbps": 34.18,
+    "ping_ms": 15.786
+  },
+  {
+    "timestamp": "2025-07-24T06:16:03.517087",
+    "download_mbps": 581.18,
+    "upload_mbps": 29.35,
+    "ping_ms": 15.793
+  },
+  {
+    "timestamp": "2025-07-24T06:17:43.447666",
+    "download_mbps": 489.74,
+    "upload_mbps": 36.18,
+    "ping_ms": 14.477
+  },
+  {
+    "timestamp": "2025-07-24T06:18:00.157066",
+    "download_mbps": 575.43,
+    "upload_mbps": 35.13,
+    "ping_ms": 16.116
+  },
+  {
+    "timestamp": "2025-07-24T06:19:43.130743",
+    "download_mbps": 512.76,
+    "upload_mbps": 28.62,
+    "ping_ms": 15.282
+  },
+  {
+    "timestamp": "2025-07-24T06:20:00.622638",
+    "download_mbps": 499.89,
+    "upload_mbps": 34.48,
+    "ping_ms": 14.796
+  },
+  {
+    "timestamp": "2025-07-24T06:21:42.700449",
+    "download_mbps": 555.57,
+    "upload_mbps": 31.55,
+    "ping_ms": 14.962
+  },
+  {
+    "timestamp": "2025-07-24T06:22:00.515153",
+    "download_mbps": 482.13,
+    "upload_mbps": 34.3,
+    "ping_ms": 12.923
+  },
+  {
+    "timestamp": "2025-07-24T06:23:42.379078",
+    "download_mbps": 582.99,
+    "upload_mbps": 36.04,
+    "ping_ms": 12.858
+  },
+  {
+    "timestamp": "2025-07-24T06:23:59.216715",
+    "download_mbps": 558.33,
+    "upload_mbps": 35.81,
+    "ping_ms": 15.552
+  },
+  {
+    "timestamp": "2025-07-24T06:25:42.375627",
+    "download_mbps": 585.96,
+    "upload_mbps": 35.52,
+    "ping_ms": 15.431
+  },
+  {
+    "timestamp": "2025-07-24T06:25:59.242698",
+    "download_mbps": 545.7,
+    "upload_mbps": 35.74,
+    "ping_ms": 13.278
+  },
+  {
+    "timestamp": "2025-07-24T06:27:43.861920",
+    "download_mbps": 482.59,
+    "upload_mbps": 34.86,
+    "ping_ms": 13.209
+  },
+  {
+    "timestamp": "2025-07-24T06:28:00.499427",
+    "download_mbps": 574.05,
+    "upload_mbps": 36.22,
+    "ping_ms": 13.672
+  },
+  {
+    "timestamp": "2025-07-24T06:29:43.167035",
+    "download_mbps": 512.37,
+    "upload_mbps": 35.57,
+    "ping_ms": 14.734
+  },
+  {
+    "timestamp": "2025-07-24T06:29:59.880846",
+    "download_mbps": 597.15,
+    "upload_mbps": 29.16,
+    "ping_ms": 14.887
+  },
+  {
+    "timestamp": "2025-07-24T06:31:43.155283",
+    "download_mbps": 509.06,
+    "upload_mbps": 31.83,
+    "ping_ms": 15.671
+  },
+  {
+    "timestamp": "2025-07-24T06:32:00.767917",
+    "download_mbps": 494.96,
+    "upload_mbps": 36.46,
+    "ping_ms": 13.834
+  },
+  {
+    "timestamp": "2025-07-24T06:33:43.666998",
+    "download_mbps": 475.98,
+    "upload_mbps": 36.32,
+    "ping_ms": 13.124
+  },
+  {
+    "timestamp": "2025-07-24T06:34:01.166498",
+    "download_mbps": 508.08,
+    "upload_mbps": 36.31,
+    "ping_ms": 14.764
+  },
+  {
+    "timestamp": "2025-07-24T06:35:42.429902",
+    "download_mbps": 575.19,
+    "upload_mbps": 28.62,
+    "ping_ms": 14.432
+  },
+  {
+    "timestamp": "2025-07-24T06:35:59.349385",
+    "download_mbps": 551.64,
+    "upload_mbps": 35.28,
+    "ping_ms": 15.22
+  },
+  {
+    "timestamp": "2025-07-24T06:37:42.601465",
+    "download_mbps": 566.73,
+    "upload_mbps": 34.07,
+    "ping_ms": 15.945
+  },
+  {
+    "timestamp": "2025-07-24T06:37:59.459880",
+    "download_mbps": 566.28,
+    "upload_mbps": 27.56,
+    "ping_ms": 13.535
+  },
+  {
+    "timestamp": "2025-07-24T06:39:45.032352",
+    "download_mbps": 423.9,
+    "upload_mbps": 27.53,
+    "ping_ms": 22.477
+  },
+  {
+    "timestamp": "2025-07-24T06:40:03.625661",
+    "download_mbps": 475.06,
+    "upload_mbps": 27.31,
+    "ping_ms": 23.721
+  },
+  {
+    "timestamp": "2025-07-24T06:41:42.440377",
+    "download_mbps": 581.41,
+    "upload_mbps": 35.2,
+    "ping_ms": 17.122
+  },
+  {
+    "timestamp": "2025-07-24T06:41:59.795122",
+    "download_mbps": 521.35,
+    "upload_mbps": 35.19,
+    "ping_ms": 19.567
+  },
+  {
+    "timestamp": "2025-07-24T06:43:43.977151",
+    "download_mbps": 453.48,
+    "upload_mbps": 34.06,
+    "ping_ms": 16.964
+  },
+  {
+    "timestamp": "2025-07-24T06:44:01.469664",
+    "download_mbps": 512.39,
+    "upload_mbps": 26.21,
+    "ping_ms": 21.016
+  },
+  {
+    "timestamp": "2025-07-24T06:45:43.400685",
+    "download_mbps": 513.89,
+    "upload_mbps": 33.6,
+    "ping_ms": 19.741
+  },
+  {
+    "timestamp": "2025-07-24T06:46:00.711463",
+    "download_mbps": 524.71,
+    "upload_mbps": 30.41,
+    "ping_ms": 18.123
+  },
+  {
+    "timestamp": "2025-07-24T06:47:46.346295",
+    "download_mbps": 344.54,
+    "upload_mbps": 34.61,
+    "ping_ms": 18.231
+  },
+  {
+    "timestamp": "2025-07-24T06:48:02.836950",
+    "download_mbps": 555.97,
+    "upload_mbps": 33.91,
+    "ping_ms": 17.892
+  },
+  {
+    "timestamp": "2025-07-24T06:49:42.492851",
+    "download_mbps": 591.24,
+    "upload_mbps": 34.13,
+    "ping_ms": 20.149
+  },
+  {
+    "timestamp": "2025-07-24T06:50:00.107082",
+    "download_mbps": 500.39,
+    "upload_mbps": 34.36,
+    "ping_ms": 19.228
+  },
+  {
+    "timestamp": "2025-07-24T06:51:42.890472",
+    "download_mbps": 567.15,
+    "upload_mbps": 35.46,
+    "ping_ms": 20.478
+  },
+  {
+    "timestamp": "2025-07-24T06:51:59.996688",
+    "download_mbps": 555.9,
+    "upload_mbps": 35.48,
+    "ping_ms": 19.542
+  },
+  {
+    "timestamp": "2025-07-24T06:53:42.913257",
+    "download_mbps": 559.91,
+    "upload_mbps": 34.17,
+    "ping_ms": 17.219
+  },
+  {
+    "timestamp": "2025-07-24T06:53:59.873808",
+    "download_mbps": 559.31,
+    "upload_mbps": 35.34,
+    "ping_ms": 18.359
+  },
+  {
+    "timestamp": "2025-07-24T06:55:42.733733",
+    "download_mbps": 550.25,
+    "upload_mbps": 31.11,
+    "ping_ms": 16.148
+  },
+  {
+    "timestamp": "2025-07-24T06:55:59.935676",
+    "download_mbps": 529.95,
+    "upload_mbps": 35.81,
+    "ping_ms": 19.917
+  },
+  {
+    "timestamp": "2025-07-24T06:57:43.515571",
+    "download_mbps": 503.68,
+    "upload_mbps": 35.37,
+    "ping_ms": 23.659
+  },
+  {
+    "timestamp": "2025-07-24T06:58:01.091275",
+    "download_mbps": 506.34,
+    "upload_mbps": 34.37,
+    "ping_ms": 20.722
+  },
+  {
+    "timestamp": "2025-07-24T06:59:43.363957",
+    "download_mbps": 500.24,
+    "upload_mbps": 34.75,
+    "ping_ms": 18.077
+  },
+  {
+    "timestamp": "2025-07-24T07:00:00.830405",
+    "download_mbps": 515.49,
+    "upload_mbps": 35.65,
+    "ping_ms": 18.754
+  },
+  {
+    "timestamp": "2025-07-24T07:05:43.767896",
+    "download_mbps": 572.89,
+    "upload_mbps": 31.31,
+    "ping_ms": 19.086
+  },
+  {
+    "timestamp": "2025-07-24T07:06:01.156920",
+    "download_mbps": 523.77,
+    "upload_mbps": 29.74,
+    "ping_ms": 20.806
+  },
+  {
+    "timestamp": "2025-07-24T07:07:43.573019",
+    "download_mbps": 487.06,
+    "upload_mbps": 35.17,
+    "ping_ms": 18.79
+  },
+  {
+    "timestamp": "2025-07-24T07:08:00.907292",
+    "download_mbps": 515.65,
+    "upload_mbps": 34.5,
+    "ping_ms": 17.69
+  },
+  {
+    "timestamp": "2025-07-24T07:09:25.672812",
+    "download_mbps": 448.61,
+    "upload_mbps": 31.81,
+    "ping_ms": 19.495
+  },
+  {
+    "timestamp": "2025-07-24T07:09:42.718437",
+    "download_mbps": 557.0,
+    "upload_mbps": 35.21,
+    "ping_ms": 15.95
   }
 ]

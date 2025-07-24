@@ -1,7 +1,7 @@
-
 # 🛡️ NetWatchdog
 
 NetWatchdog is a modern network monitoring dashboard that:
+
 - 🧭 Displays gateway info
 - 🚀 Runs and logs speed tests every 2 minutes
 - 📊 Visualizes history (Download, Upload, Ping)
@@ -11,25 +11,28 @@ NetWatchdog is a modern network monitoring dashboard that:
 ---
 
 ## 📸 Screenshot
+
 ![Dashboard Screenshot](docs/screenshot.png)
 
 ---
 
 ## 📦 Features
-| Feature | Description |
-|--------|-------------|
-| 🔁 Auto Speedtest | Every 2 minutes with low-speed alert logging |
-| 📈 Historical Charts | Shows separate line charts per metric |
-| 🖥️ Gauge UI | Animated gauges for Download/Upload/Ping |
-| 🔍 Network Scanner | Displays hosts and their open ports |
-| 🧩 API | Powered by FastAPI |
-| 🖼️ Branding | Custom logo and favicon support |
+
+| Feature              | Description                                  |
+| -------------------- | -------------------------------------------- |
+| 🔁 Auto Speedtest    | Every 2 minutes with low-speed alert logging |
+| 📈 Historical Charts | Shows separate line charts per metric        |
+| 🖥️ Gauge UI          | Animated gauges for Download/Upload/Ping     |
+| 🔍 Network Scanner   | Displays hosts and their open ports          |
+| 🧩 API               | Powered by FastAPI                           |
+| 🖼️ Branding          | Custom logo and favicon support              |
 
 ---
 
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
+
 ```bash
 pip install -r requirements.txt
 cd frontend
@@ -37,6 +40,7 @@ npm install
 ```
 
 ### 2. Run Development Servers
+
 ```bash
 # In terminal 1
 uvicorn backend.main:app --reload --port 8181
@@ -47,11 +51,13 @@ npm start
 ```
 
 ### 3. Build Frontend for Production
+
 ```bash
 npm run build
 ```
 
 ### 4. Run Full App in One Server
+
 ```bash
 uvicorn backend.main:app --port 8181
 ```
@@ -61,6 +67,7 @@ uvicorn backend.main:app --port 8181
 ## 🪟 Windows Service Setup
 
 Use [NSSM](https://nssm.cc/) to install as a service:
+
 ```bash
 nssm install NetWatchdogService "python" "C:\path\to\main.py"
 ```
@@ -108,4 +115,4 @@ NetWatchdog/
 
 ## 👨‍💻 Author
 
-Developed by Kenneth Schaefer (@parzidog)
+Developed by Kenneth Schaesfer (@parzidog)
