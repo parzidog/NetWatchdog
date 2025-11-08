@@ -45,7 +45,7 @@ function App() {
 
   useEffect(() => {
     runSpeedtest();
-    const interval = setInterval(runSpeedtest, 120_000);
+    const interval = setInterval(runSpeedtest, 3_600_000);
     return () => clearInterval(interval);
   }, []);
 
