@@ -20,7 +20,7 @@ NetWatchdog is a modern network monitoring dashboard that:
 
 | Feature              | Description                                  |
 | -------------------- | -------------------------------------------- |
-| 🔁 Auto Speedtest    | Every 2 minutes with low-speed alert logging |
+| 🔁 Auto Speedtest    | Every 60 minutes with low-speed alert logging |
 | 📈 Historical Charts | Shows separate line charts per metric        |
 | 🖥️ Gauge UI          | Animated gauges for Download/Upload/Ping     |
 | 🔍 Network Scanner   | Displays hosts and their open ports          |
